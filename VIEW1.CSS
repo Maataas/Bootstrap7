@@ -1,0 +1,39 @@
+.spacer {
+    margin-top: 100px;
+}
+
+div {
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 600;
+    color: white;
+}
+
+.A1 {
+    background-color:aqua;
+    height: 200px;
+    line-height: 6;
+}
+
+.A2 {
+    height: 100px;
+    background-color: aqua;
+    line-height: 3;
+}
+
+.B {
+    height: 100px;
+    background-color: grey;
+    line-height: 3;
+}
+
+.C {
+    background-color: yellow;
+    height: 250px;
+    line-height:8;
+}
+
+.D {
+    background-color: green;
+    height: 50px;
+}
